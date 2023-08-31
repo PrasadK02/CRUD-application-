@@ -1,5 +1,5 @@
 # CRUD-application-
-use of this application is easy as you run the application first window will appear, which will ask for Login Credentials which are as follows:
+Use of this application is easy as you run the application first window will appear, which will ask for Login Credentials which are as follows:
 UserName: Prasad
 Password: pk@2002
 once you logged in a new window will appear which will show you to some text fields and some buttons and table 
